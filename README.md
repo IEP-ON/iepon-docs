@@ -91,6 +91,7 @@ IEPON은 학생의 개인정보 보호를 최우선으로 합니다.
 |------|------|
 | [IEPON 웹사이트](https://www.iepon.site) | 서비스 바로가기 |
 | [IEPON 모바일](https://www.iepon.site/m) | 모바일 전용 인터페이스 |
+| [개인정보처리방침](docs/privacy-policy.md) | 개인정보 보호 정책 |
 | [Instagram @iep_on](https://www.instagram.com/iep_on) | 공식 인스타그램 |
 
 ---
